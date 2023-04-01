@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaCalculatorDotNetLibrary", "AreaCalculatorDotNetLibrary\AreaCalculatorDotNetLibrary.csproj", "{7C2BF3B1-2A00-4702-86D2-ACE145764FAE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaCalculatorDotNetLibrary.Tests", "AreaCalculatorDotNetLibrary.Tests\AreaCalculatorDotNetLibrary.Tests.csproj", "{785BA968-A47B-49DA-9FB0-14B6A7CF9AC3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaCalculatorAspNetCoreReactApp", "AreaCalculatorAspNetCoreReactApp\AreaCalculatorAspNetCoreReactApp.csproj", "{A31157ED-3BB6-49FD-97C0-6C31763BFC13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C2BF3B1-2A00-4702-86D2-ACE145764FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2BF3B1-2A00-4702-86D2-ACE145764FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C2BF3B1-2A00-4702-86D2-ACE145764FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2BF3B1-2A00-4702-86D2-ACE145764FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{785BA968-A47B-49DA-9FB0-14B6A7CF9AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785BA968-A47B-49DA-9FB0-14B6A7CF9AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785BA968-A47B-49DA-9FB0-14B6A7CF9AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785BA968-A47B-49DA-9FB0-14B6A7CF9AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A31157ED-3BB6-49FD-97C0-6C31763BFC13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31157ED-3BB6-49FD-97C0-6C31763BFC13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31157ED-3BB6-49FD-97C0-6C31763BFC13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31157ED-3BB6-49FD-97C0-6C31763BFC13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0623A4D5-D5F0-451F-9B13-6B4F7147A0A2}
+	EndGlobalSection
+EndGlobal
